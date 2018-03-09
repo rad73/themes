@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/rawilum/rawilum-plugins/blob/master/rawilum-themes.jpg?raw=true" alt="Rawilum Themes" width="40%" height="40%" />
+    <img src="https://github.com/rawilum/rawilum-themes/blob/master/rawilum-themes.jpg?raw=true" alt="Rawilum Themes" width="40%" height="40%" />
 </p>
 
 ### Official [themes list](https://github.com/rawilum/rawilum-themes/issues) for [RAWILUM](https://rawilum.org/) Content Management System.
