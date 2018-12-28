@@ -1,4 +1,4 @@
-# Official [plugins list](https://github.com/flextype/themes/issues) for [Flextype](https://flextype.org/)
+# Official [themes list](https://github.com/flextype/themes/issues) for [Flextype](https://flextype.org/)
 
 `In this repository you can find themes for Flextype and add your own theme.`
 
